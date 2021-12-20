@@ -2,20 +2,6 @@
     "name": "dockertest",
     "description": "dockertest",
     "keywords": ["dockertest"],
-    "env": {
-        "ID": {
-            "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
-        },
-        "AID": {
-            "description": "AlterID",
-            "value": "64"
-        },
-        "WSPATH": {
-            "description": "WebSocket Path",
-            "value": "/"
-        }
-    },
     "website": "https://github.com/ceabq/heroku-docker-test",
     "repository": "https://github.com/ceabq/heroku-docker-test",
     "stack": "container"
