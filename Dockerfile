@@ -1,1 +1,1 @@
-FROM nginx-proxy-manager:latest
+FROM jc21/nginx-proxy-manager:latest
